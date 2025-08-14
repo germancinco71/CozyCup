@@ -148,3 +148,42 @@ footer {
     border: 2px solid #d2b48c;        
     font-weight: bold;
 }
+.about p {
+    text-align: justify;
+}
+.contact {
+    background-color: #f8f4e3;   
+    padding: 40px 20px;         
+    text-align: center;         
+    border-radius: 12px;        
+    max-width: 600px;           
+    margin: 40px auto;          
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.contact h2 {
+    font-family: 'Georgia', serif;
+    color: #5c4033;             
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.contact p {
+    color: #4a4a4a;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.contact a {
+    display: inline-block;
+    background-color: #d2b48c; 
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.contact a:hover {
+    background-color: #a67b5b; 
+}
