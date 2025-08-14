@@ -124,3 +124,27 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+.item {
+    display: flex;       
+    gap: 20px;           
+    justify-content: center; 
+}
+
+.product {
+    text-align: center;  
+}
+
+.product img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.product p {
+    background-color: #f8f4e3;  
+    padding: 8px 12px;          
+    border-radius: 8px;         
+    border: 2px solid #d2b48c;        
+    font-weight: bold;
+}
