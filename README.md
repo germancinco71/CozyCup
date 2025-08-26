@@ -1,4 +1,4 @@
-# Cozy Cup Cafe 
+# Cozy Cup Cafe
 ### Project Description
 Cozy Cup Cafe is a simple project that showcases a warm and welcoming cafe concept, highlighting freshly brewed coffee, tasty pastries, and a relaxing atmosphere for everyone to enjoy. :wink: :wink: 
 ### Features
@@ -25,7 +25,7 @@ _____
 
 ### About the Author
 <div align="center">
-<img src="https://avatars.githubusercontent.com/germancinco71" class="rounded-circle" width="150" alt="Profile">
+<img src="https://avatars.githubusercontent.com/germancinco71" style="border-radius: 50%;" width="150">
 
 
 **germancinco71**  
@@ -33,7 +33,7 @@ _____
 
 <a href="https://github.com/germancinco71">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" alt="GitHub" width="40">
-  </a> &nbsp &nbsp &nbsp 
+  </a> &nbsp&nbsp
 <a href="https://web.facebook.com/german.cinco.508174/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" alt="Facebook" width="40">
   </a>
