@@ -25,7 +25,7 @@ _____
 
 ### About the Author
 <div align="center">
-<img src="https://avatars.githubusercontent.com/germancinco71" width="150" style="border-radius: 50%;" /> 
+<img src="https://avatars.githubusercontent.com/germancinco71" width="150" style="border-radius: 50%;"> 
 
 **germancinco71**  
 **germancinco17@gmail.com**  
